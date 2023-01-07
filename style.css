@@ -1,0 +1,151 @@
+
+    
+
+/* header styleing */
+header{
+    padding: 130px;
+    text-align: right;
+    background-image: url(./all\ image\ and\ icon/banner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headtitle{
+    font-weight: 700;
+    font-size: 50px;
+}
+.headbutton{
+    padding: 15px;
+    border: none;
+    background-color: darkorange;
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+
+
+/* my hobby styling */
+
+.myhobby{
+    display: flex;
+    align-items: center;
+    margin: 130px 150px;
+}
+.hobby{
+    margin-left: 60px;
+}
+
+.hobby-title{
+    font-weight: 700;
+    font-size: 30px;
+}
+
+ul{
+    list-style: square;
+}
+
+/* plan section styling */
+.plan-section{
+    margin: 130px 130px;
+}
+.plantitle{
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+}
+.skills{
+    display: flex;
+    text-align: center;
+}
+
+
+.skilltitle{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.skh{
+    font-weight: 700px;
+    font-size: 25px;
+}
+.skp{
+    font-size: 20px;
+}
+
+
+/* gradient styling */
+
+.gredient{
+    margin: 130px 150px;
+    background-image: url(./all\ image\ and\ icon/gradient2.png);
+    padding: 30px;
+    border-radius: 8px;
+
+}
+
+.gredtitle{
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 30px;
+    
+    
+
+}
+.gredbutton{
+    padding: 15px 20px;
+    border: none;
+    color: orangered;
+    font-weight: 700;
+    font-size: 15px;
+    
+}
+
+
+
+/* footer styling */
+
+footer{
+    margin-top: 130px;
+    padding: 130px 150px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+.Future-title{
+    font-weight: 700;
+    font-size: 35px;
+}
+
+
+
+.box{
+
+    margin-left: 300px;
+}
+.bot-title{
+    font-weight: 700;
+    font-size: 20px;
+
+}
+
+input{
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.subscribe{
+    padding: 15px;
+    background-color: aliceblue;
+    color: orangered;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+
+
+}
