@@ -41,8 +41,8 @@ header{
     font-size: 30px;
 }
 
-ul{
-    list-style: square;
+ul li{
+list-style: url(./all\ image\ and\ icon/chek2.png);
 }
 
 /* plan section styling */
@@ -77,8 +77,8 @@ ul{
 
 .gredient{
     margin: 130px 150px;
-    background-image: url(./all\ image\ and\ icon/gradient2.png);
-    padding: 30px;
+    background-image: linear-gradient(  to right bottom,   #ff5100b2,#ff000000),url(./all\ image\ and\ icon/watch.png);
+    padding: 40px;
     border-radius: 8px;
 
 }
